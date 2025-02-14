@@ -629,6 +629,7 @@ Sequence diagram ini menggambarkan alur interaksi antara pengguna (*User*), sist
 ---
 
 - Use Case Diagram
+  Pada use case diagram ini menunjukan bahwa pada program yang di uji semua user bisa menggunakan semua fitur yang ada
 ![Untitled Diagram](https://github.com/user-attachments/assets/07544d3a-2fa5-461e-a249-1fdbb067d149)
 
 
